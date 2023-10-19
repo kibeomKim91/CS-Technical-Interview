@@ -25,3 +25,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>4. OSI 7계층에 대해 설명 해 주세요.</summary>
+    <br>
+    <p></p>
+  </details>

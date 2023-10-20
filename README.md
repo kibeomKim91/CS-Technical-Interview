@@ -49,3 +49,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>8. REST API란 무엇인지 설명 해 주세요.</summary>
+    <br>
+    <p></p>
+  </details>

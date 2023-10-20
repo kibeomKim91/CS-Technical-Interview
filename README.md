@@ -43,3 +43,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>7. CORS란 무엇인가요?</summary>
+    <br>
+    <p></p>
+  </details>

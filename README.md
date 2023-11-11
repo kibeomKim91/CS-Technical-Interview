@@ -55,3 +55,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>9. 프로세스와 스레드의 차이는 무엇인가요?</summary>
+    <br>
+    <p></p>
+  </details>

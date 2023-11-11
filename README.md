@@ -67,3 +67,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>11. 관계형 DB와 비관계형 DB의 차이는 무엇인가요?</summary>
+    <br>
+    <p></p>
+  </details>

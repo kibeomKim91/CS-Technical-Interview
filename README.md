@@ -61,3 +61,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>10. 멀티 스레드는 무엇인가요?</summary>
+    <br>
+    <p></p>
+  </details>

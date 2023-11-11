@@ -73,3 +73,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>12. 대용량 트래픽 발생 시 어떻게 대응해야 하나요?</summary>
+    <br>
+    <p></p>
+  </details>

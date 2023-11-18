@@ -103,3 +103,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>17. 프로세스와 쓰레드에 대해서 설명하고 그 차이에 대해서 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

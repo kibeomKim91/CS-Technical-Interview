@@ -139,3 +139,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>23. 정렬 알고리즘에 대해서 아는대로 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

@@ -127,3 +127,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>21. AWS S3, EC2를 사용하는 이유와 사용 경험에 대해서 답변해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

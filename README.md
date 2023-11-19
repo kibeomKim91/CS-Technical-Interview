@@ -115,3 +115,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>19. DB 로직 최소화를 하려면 어떻게 해야 할까요?</summary>
+    <br>
+    <p></p>
+  </details>

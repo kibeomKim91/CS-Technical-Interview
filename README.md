@@ -133,3 +133,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>22. Array, LinkedList에 대해 설명해주시고 각각 어떻게 사용하는지 말씀해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

@@ -145,3 +145,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>24. CI/CD를 적용해 본 적이 있나요? 있다면 경험을 공유 해 주세요.</summary>
+    <br>
+    <p></p>
+  </details>

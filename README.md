@@ -157,3 +157,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>26. 인덱스란 무엇이고 일반적인 원리는 어떤지 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

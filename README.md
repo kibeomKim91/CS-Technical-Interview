@@ -163,3 +163,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>27. 모든 요소에 인덱스를 걸지 않는 이유는 무엇일까요?</summary>
+    <br>
+    <p></p>
+  </details>

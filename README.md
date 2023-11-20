@@ -169,3 +169,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>28. Call by reference란 무엇이고 보통 어떻게 쓰이나요?</summary>
+    <br>
+    <p></p>
+  </details>

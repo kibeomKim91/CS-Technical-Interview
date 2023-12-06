@@ -175,3 +175,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>29. 정규화란 무엇이고 대표적인 장점과 단점은 무엇이 있을까요?</summary>
+    <br>
+    <p></p>
+  </details>

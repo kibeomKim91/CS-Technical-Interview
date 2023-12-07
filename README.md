@@ -181,3 +181,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>30. 동시성과 병렬성을 비교하여 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

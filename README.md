@@ -193,3 +193,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>32. 절차지향 프로그래밍과 객체지향 프로그래밍을 비교하여 각각의 특징에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

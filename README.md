@@ -187,3 +187,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>31. 리팩토링에 대해 아는만큼 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

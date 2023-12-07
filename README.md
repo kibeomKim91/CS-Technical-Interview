@@ -223,3 +223,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>37. OOP의 5가지 설계 원칙에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

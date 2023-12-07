@@ -229,3 +229,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>38. 함수형 프로그래밍에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

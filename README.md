@@ -205,3 +205,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>34. 아스키코드와 유니코드, 그리고 EUC-KR과 UTF-8의 차이점에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

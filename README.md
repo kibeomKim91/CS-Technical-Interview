@@ -259,3 +259,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>43. RESTful API에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

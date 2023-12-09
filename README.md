@@ -313,3 +313,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>52. 우선순위 큐와 내부 구조 및 시간복잡도에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

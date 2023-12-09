@@ -283,3 +283,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>47. 해시 테이블과 해시 테이블의 시간 복잡도에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

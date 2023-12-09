@@ -295,3 +295,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>49. 스택, 큐, 트리, 힙 구조에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

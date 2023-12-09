@@ -271,3 +271,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>45. Docker(도커)와 Kubernates(쿠버네티스)에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

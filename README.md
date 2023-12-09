@@ -307,3 +307,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>51. 레드블랙 트리에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

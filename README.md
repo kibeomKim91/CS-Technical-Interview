@@ -319,3 +319,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>53. 큐와 스택의 구현에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

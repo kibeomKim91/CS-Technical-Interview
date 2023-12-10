@@ -355,3 +355,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>59. 동적 프로그래밍(Dynamic Programming)의 두 가지 조건을 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

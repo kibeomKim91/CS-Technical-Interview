@@ -409,3 +409,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>68. HTTP1과 HTTP2를 비교하여 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

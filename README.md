@@ -403,3 +403,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>67. HTTP 프로토콜에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

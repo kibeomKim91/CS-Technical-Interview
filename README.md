@@ -385,3 +385,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>64. HTTP와 HTTPS를 비교하여 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

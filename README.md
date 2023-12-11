@@ -397,3 +397,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>66. 공인 IP와 사설 IP의 차이점을 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

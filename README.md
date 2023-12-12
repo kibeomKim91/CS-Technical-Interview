@@ -445,3 +445,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>74. 세마포어(Semaphore)와 뮤텍스(Mutex)의 차이점을 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

@@ -421,3 +421,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>70. GET과 POST의 차이를 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

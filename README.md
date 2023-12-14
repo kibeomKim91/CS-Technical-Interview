@@ -475,3 +475,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>79. 운영체제의 스케쥴러에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

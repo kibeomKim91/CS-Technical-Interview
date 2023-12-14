@@ -511,3 +511,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>85. 커넥션 풀을 사용하는 이유와 장점 그리고 주의점을 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

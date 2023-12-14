@@ -487,3 +487,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>81. 데드락(DeadLock)과 임계 영역(Critical Section)에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

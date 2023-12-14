@@ -463,3 +463,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>77. 멀티 쓰레드 프로그래밍 작성 시 유의점을 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

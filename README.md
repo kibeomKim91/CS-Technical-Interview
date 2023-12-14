@@ -493,3 +493,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>82. CPU의 메모리 I/O 도중 생기는 병목 현상 해결 방법에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

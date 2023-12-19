@@ -529,3 +529,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>88. 트랜잭션의 ACID에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

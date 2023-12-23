@@ -553,3 +553,9 @@ CS 지식 저장소
     <br>
     <p></p>
   </details>
+
+  <details>
+    <summary>92. 낙관적 동시성 제어와 비관적 동시성 제어에 대해 설명해주세요.</summary>
+    <br>
+    <p></p>
+  </details>

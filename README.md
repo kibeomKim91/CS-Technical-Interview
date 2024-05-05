@@ -99,7 +99,7 @@ HTTPS의 동작 방식은 크게 세 단계로 설명할 수 있습니다. 첫�
   <details>
     <summary>7. CORS란 무엇인가요?</summary>
     <br>
-    <p></p>
+    <p>CORS는 Cross-Origin Resource Sharing의 약자로, 웹 애플리케이션에서 다른 도메인 간에 자원을 공유하기 위한 보안 메커니즘입니다. 웹 브라우저의 동일 출처 정책(Same-Origin Policy)으로 인해 다른 출처에서 데이터를 요청하는 경우 보안상의 이유로 차단됩니다. CORS는 이러한 보안 정책을 우회하고, 웹 애플리케이션 간에 안전하게 데이터를 교환할 수 있도록 해줍니다.</p>
   </details>
 
   <details>

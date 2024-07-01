@@ -105,7 +105,7 @@ HTTPS의 동작 방식은 크게 세 단계로 설명할 수 있습니다. 첫�
   <details>
     <summary>8. REST API란 무엇인지 설명 해 주세요.</summary>
     <br>
-    <p></p>
+    <p>REST API는 Representational State Transfer Application Programming Interface의 약자로, 웹 서비스 간에 데이터를 교환하기 위한 아키텍처 스타일입니다. REST API는 HTTP 프로토콜을 사용하며, 리소스를 URI로 식별하고, 표준 HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 리소스를 조작합니다. 주요 특징은 무상태(stateless), 클라이언트-서버 구조, 캐시 가능성, 계층화 구조 등입니다. 이를 통해 다양한 시스템 간의 상호 운용성을 높이고, 확장성과 유지 보수성을 향상시킵니다.</p>
   </details>
 
   <details>

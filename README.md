@@ -148,7 +148,13 @@ HTTPS의 동작 방식은 크게 세 단계로 설명할 수 있습니다. 첫�
   <details>
     <summary>14. JWT, Refresh, Access Token에 대해서 설명해주세요.?</summary>
     <br>
-    <p></p>
+    <p>JWT(JSON Web Token)는 사용자 인증에 사용되는 토큰입니다. 이 토큰은 서버와 클라이언트 간에 사용자 정보를 안전하게 주고받기 위해 사용되며, JSON 형식으로 이루어져 있습니다.
+
+Access Token은 사용자가 인증되었음을 나타내는 토큰으로, 주로 API 요청 시 필요한 권한을 부여하는 데 사용됩니다. 이 토큰은 보통 유효 기간이 짧아서, 일정 시간이 지나면 만료되도록 설계됩니다.
+
+Refresh Token은 Access Token이 만료되었을 때, 새로운 Access Token을 발급받기 위해 사용하는 토큰입니다. Refresh Token은 유효 기간이 길어서 주로 서버에서만 관리되며, 이를 통해 보안성을 유지하면서도 사용자 경험을 개선할 수 있습니다.
+
+이렇게 JWT를 활용해 Access Token과 Refresh Token을 사용하면, 사용자 인증 및 권한 관리를 효율적으로 할 수 있습니다.</p>
   </details>
 
   <details>
